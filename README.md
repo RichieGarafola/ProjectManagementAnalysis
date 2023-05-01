@@ -12,6 +12,12 @@ Imagine you work for a large company that manages a wide range of projects and r
 
 ---
 
+## About the Dataset
+
+This dataset contains information about projects, and is very important for people who want to do task on project management. This dataset includes department or office name, Project name, project title, project component, project details, date and time. It has 6 columns and 1870 unique values.
+
+---
+
 ## Installation
 To run the code, you will need to have Python 3 installed on your computer, as well as the above-mentioned libraries. You can install the libraries using pip:
 
