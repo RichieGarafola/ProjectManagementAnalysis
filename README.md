@@ -1,5 +1,7 @@
 # Project Management Analysis
 
+![](./Images/PropjectManagement.jpg)
+
 Welcome to the Project Management Analysis repository, designed to help you analyze project management data. The data comes from a company that manages projects and requests from various departments within the company.
 
 With this code, you can quickly and easily analyze project management data to gain valuable insights. By using this repository, you can identify trends and patterns that will help you optimize your project management processes and make informed decisions.
@@ -52,3 +54,20 @@ The script reads in the data from the Project_Management_Data.csv file and perfo
 - Calculating the percentage of projects that require website development and creating a pie chart for the percentage of projects that require website development.
 
 - Calculating the percentage of projects for each department and creating a donut chart to show the percentage of projects for each department.
+
+
+![](./Images/ProjectsPercentageByDepartment.png)
+
+![](./Images/ProjectsRequestedByDay.png)
+
+![](./Images/ProjectsRequestedByDepartment.png)
+
+![](./Images/ProjectsRequestedPerMonthGroupedBar.png)
+
+![](./Images/ProjectsRequestedPerMonthLine.png)
+
+![](./Images/ProjectTypes.png)
+
+![](./Images/WebsiteDevelopment.png)
+
+![](./Images/WordCloud.png)
